@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Tabuada</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1 id="h11">Gerador de Tabuada<br> <i class="em em-keyboard" aria-role="presentation" aria-label=""></i></h1>
+    </header>
+    <section>
+        <div id= content>
+            <label for="iniid">Tabuada do </label>
+            <input type="number" name="iniid" id="iniid">
+            <label for="fimid">contar até </label> 
+            <input type="number" name="fimid" id="fimid">
+            <input type="button" value="Gerar" onclick="tabuada()">
+        </div>
+        <textarea name="res" id="res" cols="30" rows="10">Digite um número acima</textarea>
+    </section>
+    <footer>
+        <p>&copy; BrunoSapalacio</p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
