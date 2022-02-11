@@ -1,7 +1,19 @@
 # Tabuada JavaScript
 Sistema simples que gera a tabuada do numero que o usuário inserir.
 
-O sistema foi criado com o auxílio do Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara (https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+O sistema foi criado com o auxílio do [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+
+# Como rodar
+```shell
+# Clonar o diretório
+git clone https://github.com/BrunoSapalacio/Tabuada_JS.git
+
+# Entrar numa IDE de sua preferência
+
+# Executar o servidor ou usar um puglin que cria um servidor
+
+# Abra o seu navegador e acesse http://localhost:5500/ ou em uma porta de sua preferência.
+```
 
 # Prints
 ![Pagina1](https://user-images.githubusercontent.com/64747697/150239916-4c8751da-a3e0-407a-8301-bd6fb573126a.jpg)
