@@ -1,4 +1,4 @@
-# Tabuada JavaScript
+# Gerador de Tabuada
 Sistema simples que gera a tabuada do numero que o usuário inserir. 
 
 O sistema foi criado com o auxílio do [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1).
